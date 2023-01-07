@@ -15,7 +15,7 @@ body{
     flex-wrap: wrap;
     background-color: aqua;
     padding: 20px;
-    max-width: 767px;
+    width: 767px;
 
 }
 .card{
